@@ -1,0 +1,11 @@
+.categories{
+    background-color: pink;
+}
+.diffpro{
+    margin-top: 40px;
+}
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    color:black;
+}

@@ -1,0 +1,32 @@
+.content{
+    margin-left: 70px;
+}
+.content1{
+    margin-left: 300px;
+}
+.card:hover{
+   transform:scale(1.1);
+}
+.login{
+    color: white;
+    text-decoration: none;
+}
+ul li {
+    text-decoration: none;
+    list-style: none;
+    display:inline-block;
+    position: relative;
+    margin: 0;
+}
+.gifts{
+    height: 520px;
+    width: 100%;
+}
+.anchors{
+    list-style: none;
+    text-decoration: none;
+    color: grey;
+}
+#dropdown{
+    border:none
+}

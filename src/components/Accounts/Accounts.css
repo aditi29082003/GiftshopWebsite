@@ -1,9 +1,10 @@
 .orders{
-    border: 1px solid grey;
-    padding: 5px;
-    border-radius: 3px;
-   margin-right: 43px;
+   width: 90%;
 }
 .verifyemail{
     margin-top: 50px;
+}
+.payment{
+    margin-top: 5px;
+    padding: 10px;
 }
